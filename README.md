@@ -4,12 +4,12 @@
 
 Create a python environment
 ```bash
-python -m venv appenv
+python -m venv env
 ```
 
 Activate the newly created environment
 ```bash
-source appenv/bin/activate
+source env/bin/activate
 ```
 
 Upgrade pip and install dependencies
@@ -20,7 +20,9 @@ pip install scrapy
 
 # Usage
 
+Activate the python environment
 ```bash
-
+source env/bin/activate
 ```
+
 
